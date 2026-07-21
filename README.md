@@ -1,86 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:064e3b&height=200&section=header&text=RC-Rahul-JS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20360°%20Virtual%20Tour%20Builder&descAlignY=60&descColor=a7f3d0" />
+# 🚀 Hello there, I'm Rahul Choudhary!
 
-</div>
+<!-- Animated Typing SVG -->
+<a href="https://github.com/RC-Rahul-JS">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;Web+Application+Engineer;React+%7C+Node+%7C+Python+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</a>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=React+%2B+Vite+Developer+%F0%9F%9A%80;360°+Virtual+Tour+Builder+%F0%9F%8C%90;Real+Estate+Tech+Innovator+%F0%9F%8F%A1;Building+Premium+Web+Experiences+✨)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Cloud
-![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### 👨💻 About Me
 
-<div align="center">
-
-[![Krishna Dham Card](https://github-readme-stats.vercel.app/api/pin/?username=RC-Rahul-JS&repo=krishna-dam&theme=radical&hide_border=true)](https://github.com/RC-Rahul-JS/krishna-dam)
-
-</div>
-
-### 🏡 [Krishna Dham — 360° Virtual Tour](https://github.com/RC-Rahul-JS/krishna-dam)
-> *Walk through your future home before you buy it.*
-
-- 🔭 **113 panoramic images** served from AWS S3
-- 🏹 **Smart navigation arrows** using gnomonic projection math
-- 🌿 **Premium UI** with Glassmorphism, animations & Google Fonts
-- ✅ **TC&P Approved** plotted colony showcase
+* 🌟 I am a **Full Stack Developer** with 1+ year of experience engineering secure, scalable web applications.
+* ⚙️ I specialize in building robust, production-ready platforms using **React.js, Node.js, Python, SQL, and MongoDB**.
+* 🌐 I have integrated complex third-party tools like Razorpay, WhatsApp Cloud API, and Google Maps API.
+* 🎓 Currently pursuing my Master of Computer Applications at Technocrats Institute of Technology.
 
 ---
 
-## 📈 Activity Graph
+### 💻 Beautiful Tech Stack
 
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RC-Rahul-JS&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-RC--Rahul--JS-181717?style=for-the-badge&logo=github)](https://github.com/RC-Rahul-JS)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
+<p align="center">
+  <!-- Skill Icons - Modern Hexagon/Square look -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,css,html,nodejs,express,python,mongodb,mysql,firebase,aws,git,github&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### 🏆 Achievements & Trophies
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:16a34a&height=100&section=footer" />
+<p align="center">
+  <!-- GitHub Profile Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RC-Rahul-JS&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RC-Rahul-JS&color=16a34a&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-*"Build things that matter."*
+### 📊 My GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/RC-Rahul-JS">
+    <img src="https://github-readme-stats.vercel.app/api?username=RC-Rahul-JS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" width="48%" />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/RC-Rahul-JS">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/RC-Rahul-JS">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-Rahul-JS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="25" />
+  <i>Constantly learning, building, and growing!</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="25" />
+</p>
 
 </div>
