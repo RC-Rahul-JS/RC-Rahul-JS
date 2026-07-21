@@ -12,33 +12,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RC-Rahul-JS&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RC-Rahul-JS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-Rahul-JS&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RC-Rahul-JS&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -78,23 +51,6 @@
 - 🏹 **Smart navigation arrows** using gnomonic projection math
 - 🌿 **Premium UI** with Glassmorphism, animations & Google Fonts
 - ✅ **TC&P Approved** plotted colony showcase
-
----
-
-## 🎯 GitHub Achievements
-
-> These badges are **automatically awarded by GitHub** — here's how to earn them all:
-
-| 🏅 Achievement | How to Earn |
-|---------------|-------------|
-| 🦈 **Pull Shark** | Get 2+ pull requests merged |
-| ⚡ **Quickdraw** | Close an issue/PR within 5 min of opening |
-| 🌊 **YOLO** | Merge a PR without a code review |
-| 💡 **Galaxy Brain** | Have your answer accepted on GitHub Discussions |
-| ❤️ **Starstruck** | Get 16+ stars on a repository |
-| 🧊 **Arctic Code Vault** | Contribute to the 2020 Arctic Vault |
-| 🦉 **Pair Extraordinaire** | Co-author a merged pull request |
-| 🪐 **Public Sponsor** | Sponsor an open source contributor |
 
 ---
 
