@@ -65,7 +65,11 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="320" alt="Developer at Work"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="Developer Coding"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=600&color=48CAE4&center=true&vCenter=true&width=330&height=160&multiline=true&lines=const+rahul+%3D+%7B;++stack%3A+%22MERN+%7C+Next.js+%7C+Python%22%2C;++frontend%3A+%22React+%7C+Tailwind+%7C+TS%22%2C;++backend%3A+%22Node.js+%7C+Express+%7C+REST%22%2C;++cloud%3A+%22AWS+%7C+CI%2FCD+%7C+Docker%22%2C;++projects%3A+%2212+Live+in+Production%22%2C;++status%3A+%22Open+for+Hire+%F0%9F%9F%A2%22%2C;%7D%3B" alt="const rahul" />
 
 </td>
 </tr></table>
