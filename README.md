@@ -11,17 +11,17 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a0a2e,60:001a3d,100:000d1a&height=280&section=header&text=RAHUL%20CHOUDHARY&fontSize=62&fontColor=00F0FF&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20React%20%7C%20Node.js%20%7C%20Python%20%7C%20AWS%20Cloud%20⚡&descAlignY=62&descSize=17&stroke=00F0FF&strokeWidth=2" alt="Rahul Choudhary — Elite Developer" />
 
 <a href="https://github.com/RC-Rahul-JS">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🚀+Building+Scalable+Web+Applications;⚡+Cloud-Powered+Solutions+%26+APIs;🧠+MERN+Stack+%7C+React+%7C+Node.js+%7C+Python;🌐+Full+Stack+Engineer+%7C+AWS+Cloud+Architect;💡+Turning+Ideas+Into+Production+Reality;🎮+LVL+99+Developer+—+Boss+Battle+Ready!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Building+Scalable+Web+Applications;Cloud-Powered+Solutions+%26+REST+APIs;MERN+Stack+%7C+React+%7C+Node.js+%7C+Python;Full+Stack+Engineer+%7C+AWS+Cloud+Architect;Turning+Ideas+Into+Production+Reality;LVL+99+Developer+--+Boss+Battle+Ready!" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&label=👁️%20PROFILE%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/RC-Rahul-JS?label=⚡%20FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0d1117&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/RC-Rahul-JS?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00FF88?style=for-the-badge&labelColor=0d1117&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00FF88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=white" alt="Status" />
 </p>
 
 <p>
@@ -277,23 +277,6 @@
 │     MERN expertise is battle-tested & production-ready. 🚀       │
 └──────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 📡 Contribution Heatmap — 219+ Commits
-
-<div align="center">
-<img src="https://ghchart.rshah.org/00F0FF/RC-Rahul-JS" alt="Contribution Heatmap" width="80%" />
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/📅_THIS_YEAR-219%2B_Commits-00F0FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📦_REPOS-28%2B_Projects-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🔀_PRs-15%2B_Merged-00FF88?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🐛_ISSUES-20%2B_Solved-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-
-</div>
 
 ---
 
