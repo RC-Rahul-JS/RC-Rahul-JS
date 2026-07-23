@@ -1,4 +1,4 @@
-<!-- RAHUL CHOUDHARY | GITHUB PROFILE README -->
+﻿<!-- RAHUL CHOUDHARY | GITHUB PROFILE README -->
 
 <div align="center">
 
@@ -55,12 +55,12 @@
 
 **Frontend Developer & Full Stack Engineer** with **1+ year** production experience.
 
-- 🖥️ **Frontend** — React.js, Next.js, Tailwind CSS, React Query, PWA, Code Splitting
-- ⚙️ **Backend** — Node.js, Express.js, Python, MERN Stack, 30+ REST APIs, JWT, RBAC
-- 🔗 **Integrations** — Razorpay · WhatsApp Cloud API · Google Maps API · Firebase
-- ☁️ **Cloud & DevOps** — AWS EC2 & S3 · CI/CD · Docker · Netlify · Vercel
-- 🗄️ **Databases** — MongoDB · Firebase Firestore · SQL
-- 🤖 **AI Tools** — ChatGPT · Claude AI · Google Gemini · AntiGravity AI
+- ðŸ–¥ï¸ **Frontend** â€” React.js, Next.js, Tailwind CSS, React Query, PWA, Code Splitting
+- âš™ï¸ **Backend** â€” Node.js, Express.js, Python, MERN Stack, 30+ REST APIs, JWT, RBAC
+- ðŸ”— **Integrations** â€” Razorpay Â· WhatsApp Cloud API Â· Google Maps API Â· Firebase
+- â˜ï¸ **Cloud & DevOps** â€” AWS EC2 & S3 Â· CI/CD Â· Docker Â· Netlify Â· Vercel
+- ðŸ—„ï¸ **Databases** â€” MongoDB Â· Firebase Firestore Â· SQL
+- ðŸ¤– **AI Tools** â€” ChatGPT Â· Claude AI Â· Google Gemini Â· AntiGravity AI
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -78,37 +78,37 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=99999&pause=99999&color=00B4D8&width=460&height=28&lines=%E2%96%B6+PROFESSIONAL+EXPERIENCE+%E2%80%94+Duniyape+Technologies" />
 
-### 🏢 Duniyape Technologies Pvt. Ltd. &nbsp;·&nbsp; `May 2025 – Present`
+### ðŸ¢ Duniyape Technologies Pvt. Ltd. &nbsp;Â·&nbsp; `May 2025 â€“ Present`
 
 <table border="0" width="100%"><tr>
 <td width="50%" valign="top">
 
-**Sadapoorna Trader** — FMCG Distribution ERP
+**Sadapoorna Trader** â€” FMCG Distribution ERP
 [![](https://img.shields.io/badge/Live-sadapoorna.in-52B788?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://sadapoorna.in)
 
 `React.js` `Node.js` `Express` `MongoDB` `React Query` `Google Maps API` `WhatsApp Cloud API` `JWT` `RBAC`
 
-- Full Stack ERP — inventory, procurement, sales & logistics
+- Full Stack ERP â€” inventory, procurement, sales & logistics
 - 30+ REST APIs, role-based access control, JWT auth
 - Real-time tracking via Google Maps & WhatsApp notifications
 
 </td>
 <td width="50%" valign="top">
 
-**Care2Connect** — Telemedicine Platform
+**Care2Connect** â€” Telemedicine Platform
 [![](https://img.shields.io/badge/Live-care2connect.in-00B4D8?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://care2connect.in)
 
 `React.js` `Node.js` `Tailwind CSS` `REST APIs` `AWS S3` `Razorpay` `WhatsApp Cloud API`
 
 - Portals for Doctor, Patient, Hospital, Pharmacy & Lab
-- Razorpay payments · AWS S3 · Teleconsultation workflows
+- Razorpay payments Â· AWS S3 Â· Teleconsultation workflows
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Vivekanand School** — Education Platform
+**Vivekanand School** â€” Education Platform
 [![](https://img.shields.io/badge/Live-vivekanand.co.in-48CAE4?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://vivekanand.co.in)
 
 `React.js` `Firebase` `Tailwind CSS` `REST APIs`
@@ -119,7 +119,7 @@
 </td>
 <td width="50%" valign="top">
 
-**EZXpress** — Logistics Platform
+**EZXpress** â€” Logistics Platform
 [![](https://img.shields.io/badge/Live-ezxpress.in-F78166?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://ezxpress.in)
 
 `React.js` `Node.js` `Tailwind CSS` `REST APIs` `MongoDB`
@@ -132,7 +132,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**Krishna Dham Plots** — Real Estate Platform
+**Krishna Dham Plots** â€” Real Estate Platform
 [![](https://img.shields.io/badge/Live-krishna--dham--plots.web.app-E040FB?style=flat-square&logo=firebase&labelColor=0D1117)](https://krishna-dham-plots.web.app)
 
 `React.js` `Firebase` `Tailwind CSS`
@@ -143,12 +143,12 @@
 </td>
 <td width="50%" valign="top">
 
-**Kalra Mindcare** — Healthcare Clinic
+**Kalra Mindcare** â€” Healthcare Clinic
 [![](https://img.shields.io/badge/Live-kalramindcare.com-52B788?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://www.kalramindcare.com)
 
 `React.js` `Tailwind CSS` `REST APIs`
 
-- Mental health clinic platform — services & appointments
+- Mental health clinic platform â€” services & appointments
 - Responsive design with appointment booking workflow
 
 </td>
@@ -166,34 +166,34 @@
 
 <td width="33%" valign="top">
 
-**🎵 Saptak Music** — Personal Project
+**ðŸŽµ Saptak Music** â€” Personal Project
 [![](https://img.shields.io/badge/Live-saptak--music.web.app-E040FB?style=flat-square&logo=firebase&labelColor=0D1117)](https://saptak-music.web.app)
 
 `React.js` `Next.js` `Node.js` `Express` `MongoDB` `Firebase Auth` `AWS S3` `JWT` `Tailwind CSS`
 
-Full-stack **PWA** for music institutes — role-based Teacher & Student portals, Ear Training game, Tanpura Swar Sadhana, social feed (posts, reels, likes, comments) and AWS S3 media storage
+Full-stack **PWA** for music institutes â€” role-based Teacher & Student portals, Ear Training game, Tanpura Swar Sadhana, social feed (posts, reels, likes, comments) and AWS S3 media storage
 
 </td>
 
 <td width="33%" valign="top">
 
-**🌳 Porvaj** — Family Tree App
+**ðŸŒ³ Porvaj** â€” Family Tree App
 [![](https://img.shields.io/badge/Live-porvaj.netlify.app-00B4D8?style=flat-square&logo=netlify&labelColor=0D1117)](https://porvaj.netlify.app)
 
 `React.js` `JavaScript` `Tailwind CSS` `Netlify`
 
-Interactive **5-generation family tree** — click any member to instantly trace their full relationship path from root ancestor to that person, with all connections displayed dynamically. Shows lineage, siblings, parents, grandparents across 5 generations
+Interactive **5-generation family tree** â€” click any member to instantly trace their full relationship path from root ancestor to that person, with all connections displayed dynamically. Shows lineage, siblings, parents, grandparents across 5 generations
 
 </td>
 
 <td width="33%" valign="top">
 
-**🏗️ Jabeli** — Construction Showcase
+**ðŸ—ï¸ Jabeli** â€” Construction Showcase
 [![](https://img.shields.io/badge/Live-jabeli.web.app-F7DF1E?style=flat-square&logo=firebase&labelColor=0D1117)](https://jabeli.web.app)
 
 `React.js` `Firebase` `Tailwind CSS`
 
-**B2B platform** for construction contractors to showcase completed projects, post new work opportunities, and attract clients — a portfolio + marketplace for the construction industry
+**B2B platform** for construction contractors to showcase completed projects, post new work opportunities, and attract clients â€” a portfolio + marketplace for the construction industry
 
 </td>
 
@@ -202,7 +202,7 @@ Interactive **5-generation family tree** — click any member to instantly trace
 
 <td width="33%" valign="top">
 
-**🎬 Movie Landing Page** — Personal
+**ðŸŽ¬ Movie Landing Page** â€” Personal
 [![](https://img.shields.io/badge/Live-GitHub%20Pages-181717?style=flat-square&logo=github&labelColor=0D1117)](https://rc-rahul-js.github.io/movie-landing-page/)
 
 `HTML5` `CSS3` `JavaScript` `GSAP`
@@ -213,7 +213,7 @@ Responsive animated movie showcase landing page with smooth GSAP-style animation
 
 <td width="33%" valign="top">
 
-**💼 Developer Portfolio** — Personal
+**ðŸ’¼ Developer Portfolio** â€” Personal
 [![](https://img.shields.io/badge/Live-rc--rahul--js.github.io-00B4D8?style=flat-square&logo=github&labelColor=0D1117)](https://rc-rahul-js.github.io/portfolio/)
 
 `React.js` `CSS3` `GitHub Pages`
@@ -224,12 +224,12 @@ Personal developer portfolio showcasing projects, technical skills, experience a
 
 <td width="33%" valign="top">
 
-**🏗️ Construction Admin** — Freelance
+**ðŸ—ï¸ Construction Admin** â€” Freelance
 [![](https://img.shields.io/badge/Live-construction--838d7-F78166?style=flat-square&logo=firebase&labelColor=0D1117)](https://construction-838d7.web.app/admin)
 
 `React.js` `Firebase` `Tailwind CSS`
 
-Construction project & team management admin dashboard — project tracking, team assignments & progress monitoring
+Construction project & team management admin dashboard â€” project tracking, team assignments & progress monitoring
 
 </td>
 
@@ -250,7 +250,7 @@ Construction project & team management admin dashboard — project tracking, tea
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=dark&perline=4"/>
-<br/><sub>`React Query · Axios · PWA · Lazy Loading`</sub>
+<br/><sub>`React Query Â· Axios Â· PWA Â· Lazy Loading`</sub>
 
 </td>
 <td align="center" valign="top" width="25%">
@@ -258,7 +258,7 @@ Construction project & team management admin dashboard — project tracking, tea
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=dark&perline=4"/>
-<br/><sub>`REST APIs · JWT · RBAC · MERN Stack`</sub>
+<br/><sub>`REST APIs Â· JWT Â· RBAC Â· MERN Stack`</sub>
 
 </td>
 <td align="center" valign="top" width="25%">
@@ -266,7 +266,7 @@ Construction project & team management admin dashboard — project tracking, tea
 **Database & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,aws&theme=dark&perline=4"/>
-<br/><sub>`MongoDB · Firestore · SQL · S3 · EC2`</sub>
+<br/><sub>`MongoDB Â· Firestore Â· SQL Â· S3 Â· EC2`</sub>
 
 </td>
 <td align="center" valign="top" width="25%">
@@ -274,7 +274,7 @@ Construction project & team management admin dashboard — project tracking, tea
 **DevOps & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,postman,figma,vercel&theme=dark&perline=4"/>
-<br/><sub>`CI/CD · Docker · GitHub Actions · Netlify`</sub>
+<br/><sub>`CI/CD Â· Docker Â· GitHub Actions Â· Netlify`</sub>
 
 </td>
 </tr></table>
@@ -301,13 +301,13 @@ Construction project & team management admin dashboard — project tracking, tea
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=020818&title_color=00B4D8&icon_color=48CAE4&text_color=8B949E&ring_color=00B4D8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RC-Rahul-JS&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=020818&title_color=00B4D8&icon_color=48CAE4&text_color=8B949E&ring_color=00B4D8" width="48%"/>
 &nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=github_dark&hide_border=true&bg_color=020818&title_color=00B4D8&text_color=8B949E&layout=compact&langs_count=7&count_private=true" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=github_dark&hide_border=true&bg_color=020818&title_color=00B4D8&text_color=8B949E&layout=compact&langs_count=7&count_private=true" width="47%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-Rahul-JS&theme=dark&hide_border=true&background=020818&ring=00B4D8&fire=48CAE4&currStreakLabel=00B4D8&sideLabels=48CAE4&currStreakNum=52B788&sideNums=8B949E&dates=484F58" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=RC-Rahul-JS&theme=dark&hide_border=true&background=020818&ring=00B4D8&fire=48CAE4&currStreakLabel=00B4D8&sideLabels=48CAE4&currStreakNum=52B788&sideNums=8B949E&dates=484F58" width="55%"/>
 
 <br/><br/>
 
@@ -344,3 +344,4 @@ Construction project & team management admin dashboard — project tracking, tea
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:061020,100:020818&height=90&section=footer"/>
 
 </div>
+
