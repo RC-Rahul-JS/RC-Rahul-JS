@@ -2,27 +2,47 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,30:061020,60:0a1628,100:020818&height=280&section=header&text=RAHUL%20CHOUDHARY&fontSize=68&fontColor=00B4D8&animation=fadeIn&fontAlignY=42&stroke=00B4D8&strokeWidth=1&desc=Frontend%20Developer%20%E2%80%82%C2%B7%E2%80%82%20Full%20Stack%20Engineer%20%E2%80%82%C2%B7%E2%80%82%20React%20%7C%20Node.js%20%7C%20AWS&descAlignY=62&descSize=17&descColor=48CAE4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,30:061020,60:0a1628,100:020818&height=260&section=header&text=RAHUL%20CHOUDHARY&fontSize=68&fontColor=00B4D8&animation=fadeIn&fontAlignY=42&stroke=00B4D8&strokeWidth=1&desc=Frontend%20Developer%20%E2%80%82%C2%B7%E2%80%82%20Full%20Stack%20Engineer%20%E2%80%82%C2%B7%E2%80%82%20Bhopal%2C%20India&descAlignY=64&descSize=17&descColor=48CAE4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=780&height=50&lines=Frontend+Developer+%E2%80%94+React.js+%7C+Next.js+%7C+Tailwind+CSS;Full+Stack+Engineer+%E2%80%94+Node.js+%7C+Express+%7C+MongoDB;Production+ERP+%26+Healthcare+Platforms+%40+Duniyape+Tech;AWS+S3+%7C+Razorpay+%7C+WhatsApp+Cloud+API+%7C+Google+Maps;1%2B+Year+Building+Scalable%2C+User-Centric+Web+Products;Bhopal%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%80%94+Open+for+Full-Time+Roles" alt="Typing" />
+<!-- ANIMATED ROLE TYPING -->
+<a href="https://github.com/RC-Rahul-JS">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=780&height=48&lines=Frontend+Developer+%E2%80%94+React.js+%7C+Next.js+%7C+Tailwind+CSS;Full+Stack+Engineer+%E2%80%94+Node.js+%7C+Express.js+%7C+MongoDB;11+Live+Production+Projects+Deployed;AWS+S3+%7C+Razorpay+%7C+WhatsApp+API+%7C+Google+Maps;1%2B+Year+%40+Duniyape+Technologies%2C+Bhopal+%F0%9F%87%AE%F0%9F%87%B3" alt="Role" />
+</a>
 
 <br/>
 
+<!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20FOR%20HIRE-Full%20Time%20%7C%20Freelance-52B788?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20LOCATION-Bhopal%2C%20India-00B4D8?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-Bhopal%2C%20India-00B4D8?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TARGET-Frontend%20%26%20Full%20Stack%20Roles-48CAE4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&style=for-the-badge&color=0a3d5c&labelColor=0D1117&label=Profile+Views"/>
 
 <br/><br/>
 
+<!-- LANGUAGE PROFICIENCY STRIP -->
+<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Familiar-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-Familiar-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117"/>
+
+<br/><br/>
+
+<!-- CONTACT -->
 <a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-rahulrc.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/LinkedIn-rc--rahul-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
-<a href="tel:+917089449249"><img src="https://img.shields.io/badge/Phone-%2B91%207089449249-52B788?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://rc-rahul-js.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00B4D8?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&style=flat-square&color=00B4D8&labelColor=0D1117&label=Profile+Views"/>
+<a href="tel:+917089449249"><img src="https://img.shields.io/badge/Phone-%2B91%207089449249-52B788?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117"/></a>
 
 </div>
 
@@ -33,18 +53,19 @@
 <table border="0" width="100%"><tr>
 <td width="55%" valign="top">
 
-A **Frontend Developer & Full Stack Engineer** with **1+ year** of production experience at **Duniyape Technologies Pvt. Ltd.**
+**Frontend Developer & Full Stack Engineer** with **1+ year** in production at **Duniyape Technologies Pvt. Ltd.**
 
-- 🖥️ **Frontend expertise** — React.js, Next.js, Tailwind CSS, React Query, performance optimization, lazy loading & code splitting
-- ⚙️ **Full Stack capability** — Node.js, Express.js, MongoDB, JWT/RBAC auth, 30+ REST APIs in production
-- 🔗 **Third-party integrations** — Razorpay · WhatsApp Cloud API · Google Maps API · Firebase
-- ☁️ **Cloud deployments** — AWS EC2, S3 · Netlify · Vercel
+- 🖥️ **Frontend** — React.js, Next.js, Tailwind CSS, React Query, Lazy Loading, PWA, Code Splitting
+- ⚙️ **Backend** — Node.js, Express.js, Python, 30+ REST APIs, JWT, RBAC
+- 🔗 **Integrations** — Razorpay · WhatsApp Cloud API · Google Maps API · Firebase
+- ☁️ **Cloud** — AWS EC2 & S3 · Netlify · Vercel · Firebase Hosting
+- 🗄️ **Databases** — MongoDB · Firebase Firestore · SQL
 - 🤖 **AI Tools** — ChatGPT · Claude AI · Google Gemini · AntiGravity AI
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=700&color=48CAE4&center=true&vCenter=true&width=320&height=170&multiline=true&lines=const+rahul+%3D+%7B;++frontend%3A+%22React+%7C+Next.js+%7C+Tailwind%22%2C;++backend%3A+%22Node.js+%7C+Express+%7C+Python%22%2C;++database%3A+%22MongoDB+%7C+Firebase+%7C+SQL%22%2C;++cloud%3A+%22AWS+EC2+%7C+S3+%7C+Vercel%22%2C;++status%3A+%22Open+for+Hire+%F0%9F%9F%A2%22%2C;++location%3A+%22Bhopal%2C+India+%F0%9F%87%AE%F0%9F%87%B3%22;%7D%3B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=700&color=48CAE4&center=true&vCenter=true&width=330&height=185&multiline=true&lines=const+rahul+%3D+%7B;++role%3A+%22Frontend+%26+Full+Stack%22%2C;++frontend%3A+%22React+%7C+Next.js+%7C+Tailwind%22%2C;++backend%3A+%22Node.js+%7C+Express+%7C+Python%22%2C;++database%3A+%22MongoDB+%7C+Firebase+%7C+SQL%22%2C;++cloud%3A+%22AWS+%7C+Netlify+%7C+Vercel%22%2C;++projects%3A+%2211+Live+in+Production%22%2C;++status%3A+%22Open+for+Hire+%F0%9F%9F%A2%22;%7D%3B" />
 
 </td>
 </tr></table>
@@ -53,86 +74,137 @@ A **Frontend Developer & Full Stack Engineer** with **1+ year** of production ex
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=99999&pause=99999&color=00B4D8&width=360&height=28&lines=%E2%96%B6+PROFESSIONAL+EXPERIENCE" />
 
-### 🏢 Duniyape Technologies Pvt. Ltd. &nbsp;`Full Stack Developer · Frontend Developer` &nbsp;·&nbsp; `May 2025 – Present` &nbsp;·&nbsp; Bhopal, India
+### 🏢 Duniyape Technologies Pvt. Ltd. &nbsp;·&nbsp; `May 2025 – Present` &nbsp;·&nbsp; Bhopal, India
+
+<table border="0" width="100%"><tr>
+<td width="50%" valign="top">
+
+**Sadapoorna Trader** — FMCG ERP
+[![](https://img.shields.io/badge/Live-sadapoorna.in-52B788?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://sadapoorna.in)
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `React Query` `Google Maps API` `WhatsApp Cloud API` `Firebase` `JWT` `RBAC`
+
+- Production ERP — inventory, procurement, sales, logistics
+- 30+ REST APIs · JWT auth · Role-based access control
+- Google Maps real-time tracking & WhatsApp notifications
+
+</td>
+<td width="50%" valign="top">
+
+**Care2Connect** — Telemedicine Platform
+[![](https://img.shields.io/badge/Live-care2connect.in-00B4D8?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://care2connect.in)
+
+`React.js` `Node.js` `Tailwind CSS` `REST APIs` `AWS S3` `Razorpay` `WhatsApp Cloud API`
+
+- Portals for Doctor, Patient, Hospital, Pharmacy & Lab
+- Razorpay payments · AWS S3 storage · Teleconsultation
+- Real-time appointment scheduling & prescription management
+
+</td>
+</tr></table>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=99999&pause=99999&color=00B4D8&width=320&height=28&lines=%E2%96%B6+11+LIVE+PRODUCTION+PROJECTS" />
 
 <br/>
 
-<table border="0" width="100%"><tr>
-<td width="50%" valign="top">
+<table border="0" width="100%">
+<tr>
 
-**Sadapoorna Trader** — FMCG Distribution ERP
-[![Live](https://img.shields.io/badge/Live-sadapoorna.netlify.app-52B788?style=flat-square&logo=netlify&labelColor=0D1117)](https://sadapoorna.netlify.app)
+<td width="33%" valign="top">
 
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `React Query` `Google Maps API` `WhatsApp Cloud API` `Firebase` `JWT` `RBAC`
-
-**Frontend:**
-- Production-ready role-based dashboards for inventory, sales, procurement & logistics
-- Lazy loading, code splitting & React Query caching for performance
-- Google Maps API — real-time field-agent tracking & route optimization
-- Firebase Authentication workflows
-
-**Backend:**
-- 30+ secure REST APIs with JWT-based authentication
-- Role-based access control (RBAC) across all modules
-- Order management, vendor tracking, analytics & automated billing
-- WhatsApp Cloud API — invoice sharing & automated customer notifications
+**🎵 Saptak Music**
+[![](https://img.shields.io/badge/Live-saptak--music.web.app-E040FB?style=flat-square&logo=firebase&labelColor=0D1117)](https://saptak-music.web.app)
+<br/><sub>`React` `Next.js` `Node.js` `MongoDB` `AWS S3` `Firebase`</sub>
+<br/>Music learning PWA — Teacher & Student portals, Ear Training, Social Feed
 
 </td>
-<td width="50%" valign="top">
 
-**Care2Connect** — Healthcare Telemedicine Platform
-[![Live](https://img.shields.io/badge/Live-care2connect.in-00B4D8?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://care2connect.in)
+<td width="33%" valign="top">
 
-`React.js` `Tailwind CSS` `Node.js` `REST APIs` `AWS S3` `Razorpay` `WhatsApp Cloud API` `Git/GitHub`
-
-**Frontend:**
-- Scalable, component-driven UI for Doctor, Patient, Hospital, Pharmacy & Lab portals
-- Dynamic appointment scheduling & real-time doctor availability
-- Virtual consultation booking & prescription management
-- Optimized via reusable components, lazy loading & API optimization
-
-**Backend:**
-- Scalable Node.js REST APIs with Razorpay payment integration
-- AWS S3 for secure medical document & file storage
-- WhatsApp Cloud API for automated appointment notifications
-- Efficient async data fetching & frontend-backend integration
+**🏗️ EZXpress**
+[![](https://img.shields.io/badge/Live-ezxpress.in-F78166?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://ezxpress.in)
+<br/><sub>`React.js` `Node.js` `Tailwind CSS`</sub>
+<br/>Logistics & express delivery platform — full stack web application
 
 </td>
-</tr></table>
+
+<td width="33%" valign="top">
+
+**🧠 Kalra Mindcare**
+[![](https://img.shields.io/badge/Live-kalramindcare.com-48CAE4?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://www.kalramindcare.com)
+<br/><sub>`React.js` `Tailwind CSS` `REST APIs`</sub>
+<br/>Mental health clinic platform — appointments & services
+
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" valign="top">
+
+**🏫 Vivekanand School**
+[![](https://img.shields.io/badge/Live-vivekanand.co.in-52B788?style=flat-square&logo=googlechrome&labelColor=0D1117)](https://vivekanand.co.in)
+<br/><sub>`JavaScript` `HTML5` `CSS3` `Firebase`</sub>
+<br/>School management & information website
+
+</td>
+
+<td width="33%" valign="top">
+
+**🛒 Jabeli**
+[![](https://img.shields.io/badge/Live-jabeli.web.app-F7DF1E?style=flat-square&logo=firebase&labelColor=0D1117)](https://jabeli.web.app)
+<br/><sub>`React.js` `Firebase` `Tailwind CSS`</sub>
+<br/>E-commerce / marketplace web application
+
+</td>
+
+<td width="33%" valign="top">
+
+**🏠 Porvaj**
+[![](https://img.shields.io/badge/Live-porvaj.netlify.app-00B4D8?style=flat-square&logo=netlify&labelColor=0D1117)](https://porvaj.netlify.app)
+<br/><sub>`React.js` `Tailwind CSS` `Netlify`</sub>
+<br/>Real estate / property listing web platform
+
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" valign="top">
+
+**🏗️ Construction Admin**
+[![](https://img.shields.io/badge/Live-construction--838d7.web.app-F78166?style=flat-square&logo=firebase&labelColor=0D1117)](https://construction-838d7.web.app/admin)
+<br/><sub>`React.js` `Firebase` `Tailwind CSS`</sub>
+<br/>Construction project management & team dashboard
+
+</td>
+
+<td width="33%" valign="top">
+
+**🎬 Movie Landing Page**
+[![](https://img.shields.io/badge/Live-GitHub%20Pages-181717?style=flat-square&logo=github&labelColor=0D1117)](https://rc-rahul-js.github.io/movie-landing-page/)
+<br/><sub>`HTML5` `CSS3` `JavaScript`</sub>
+<br/>Responsive animated movie showcase landing page
+
+</td>
+
+<td width="33%" valign="top">
+
+**💼 Portfolio**
+[![](https://img.shields.io/badge/Live-rc--rahul--js.github.io-00B4D8?style=flat-square&logo=github&labelColor=0D1117)](https://rc-rahul-js.github.io/portfolio/)
+<br/><sub>`React.js` `CSS3` `GitHub Pages`</sub>
+<br/>Personal developer portfolio — projects, skills & contact
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=99999&pause=99999&color=00B4D8&width=280&height=28&lines=%E2%96%B6+PERSONAL+PROJECT" />
-
-### 🎵 Saptak — Music Learning & Social Platform
-[![Live](https://img.shields.io/badge/Live-saptak--music.web.app-E040FB?style=flat-square&logo=firebase&labelColor=0D1117)](https://saptak-music.web.app)
-
-`React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Firebase Auth` `JWT` `Tailwind CSS` `REST APIs` `AWS S3` `Google Maps API`
-
-<table border="0" width="100%"><tr>
-<td width="50%" valign="top">
-
-**Frontend:**
-- PWA for music institutes with role-based Teacher & Student portals
-- Interactive Ear Training module — pitch recognition & level progression
-- Tanpura-based Swar Sadhana music practice exercises
-- Supports Tabla, Guitar, Harmonium, Piano & Flute
-
-</td>
-<td width="50%" valign="top">
-
-**Backend & Cloud:**
-- Scalable Node.js REST APIs + JWT authentication
-- AWS S3 for audio, video & notes media storage
-- Social feed — posts, reels, likes & comments
-- Firebase Authentication + MongoDB database
-
-</td>
-</tr></table>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=99999&pause=99999&color=00B4D8&width=280&height=28&lines=%E2%96%B6+TECHNICAL+SKILLS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=99999&pause=99999&color=00B4D8&width=280&height=28&lines=%E2%96%B6+TECH+STACK" />
 
 <br/>
 
@@ -144,7 +216,7 @@ A **Frontend Developer & Full Stack Engineer** with **1+ year** of production ex
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=dark&perline=4"/>
-<br/><sub>`React Query · Axios · React Router · Lazy Loading · PWA · Component Architecture`</sub>
+<br/><sub>`React Query · Axios · PWA · Lazy Loading · Code Splitting`</sub>
 
 </td>
 <td align="center" valign="top" width="33%">
@@ -152,15 +224,15 @@ A **Frontend Developer & Full Stack Engineer** with **1+ year** of production ex
 **Backend & Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase,mysql&theme=dark&perline=4"/>
-<br/><sub>`REST APIs · JWT · RBAC · Razorpay · WhatsApp API · Google Maps API`</sub>
+<br/><sub>`JWT · RBAC · REST APIs · Razorpay · WhatsApp API · Google Maps API`</sub>
 
 </td>
 <td align="center" valign="top" width="33%">
 
-**Cloud & Tools**
+**Cloud & DevOps**
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma,vercel&theme=dark&perline=4"/>
-<br/><sub>`AWS EC2 · S3 · Netlify · Vercel · CI/CD · Linux`</sub>
+<br/><sub>`AWS EC2 · S3 · Netlify · Vercel · Firebase Hosting · Linux`</sub>
 
 </td>
 </tr></table>
@@ -201,15 +273,17 @@ A **Frontend Developer & Full Stack Engineer** with **1+ year** of production ex
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1200&color=48CAE4&center=true&vCenter=true&width=700&height=45&lines=Open+to+Frontend+%26+Full+Stack+roles+across+India+%F0%9F%87%AE%F0%9F%87%B3;Available+for+full-time%2C+contract+%26+freelance+opportunities;Let%E2%80%99s+build+something+production-ready+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1200&color=48CAE4&center=true&vCenter=true&width=700&height=45&lines=11+live+projects+%E2%80%94+React+%7C+Node.js+%7C+AWS+%7C+Firebase;Open+for+Frontend+%26+Full+Stack+roles+across+India+%F0%9F%87%AE%F0%9F%87%B3;Let%E2%80%99s+build+something+production-ready+together!" />
 
 <br/>
 
 <a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
-<a href="https://github.com/RC-Rahul-JS?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://rc-rahul-js.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/></a>
+&nbsp;
+<a href="https://github.com/RC-Rahul-JS?tab=repositories"><img src="https://img.shields.io/badge/31+%20Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
 <br/><br/>
 
