@@ -1,255 +1,222 @@
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                  🚀 RAHUL CHOUDHARY — ELITE PROFILE README          -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+﻿<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--              🥷 RC-RAHUL-JS — SHADOW CODE NINJA PROFILE             -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                    HERO BANNER                         -->
-<!-- ══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,40:0a0a0a,70:1a0000,100:0d0d0d&height=220&section=header&text=RAHUL%20CHOUDHARY&fontSize=58&fontColor=FF4500&animation=fadeIn&fontAlignY=45&desc=Shadow%20Code%20Ninja%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=68&descSize=16&stroke=FF4500&strokeWidth=1" alt="Rahul Choudhary — Shadow Ninja" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a0a2e,60:001a3d,100:000d1a&height=280&section=header&text=RAHUL%20CHOUDHARY&fontSize=62&fontColor=00F0FF&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20React%20%7C%20Node.js%20%7C%20Python%20%7C%20AWS%20Cloud%20⚡&descAlignY=62&descSize=17&stroke=00F0FF&strokeWidth=2" alt="Rahul Choudhary — Elite Developer" />
+<br/>
 
 <a href="https://github.com/RC-Rahul-JS">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Building+Scalable+Web+Applications;Cloud-Powered+Solutions+%26+REST+APIs;MERN+Stack+%7C+React+%7C+Node.js+%7C+Python;Full+Stack+Engineer+%7C+AWS+Cloud+Architect;Turning+Ideas+Into+Production+Reality;LVL+99+Developer+--+Boss+Battle+Ready!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2800&pause=1200&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Shadow+Code+Ninja;MERN+Stack+%7C+React+%7C+Node.js+%7C+Python;AWS+Cloud+%7C+REST+APIs+%7C+MongoDB;Strike+fast.+Ship+clean.+Leave+no+bugs." alt="Ninja Typing" />
 </a>
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/RC-Rahul-JS?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00FF88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=white" alt="Status" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&label=PROFILE+VIEWS&color=FF4500&style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/RC-Rahul-JS?label=FOLLOWERS&style=for-the-badge&color=8B0000&labelColor=0d0d0d&logo=github&logoColor=FF4500" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20HIRE-FFD700?style=for-the-badge&labelColor=0d0d0d&logo=checkmarx&logoColor=FFD700" />
 
-<p>
-  <a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a0a" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001a2e" /></a>
-  &nbsp;
-  <a href="https://github.com/RC-Rahul-JS"><img src="https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
-</p>
+<br/><br/>
+
+<a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00101a" /></a>
+&nbsp;
+<a href="https://github.com/RC-Rahul-JS"><img src="https://img.shields.io/badge/GITHUB-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
 
 </div>
 
 ---
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              🥷  NINJA DOSSIER — IDENTITY               -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-```yaml
-┌─────────────────────────────────────────┐
-│   👤  IDENTITY.CONFIG                   │
-├─────────────────────────────────────────┤
-│   Name     : Rahul Choudhary            │
-│   Role     : Full Stack Developer       │
-│   Stack    : MERN | Python | AWS        │
-│   Location : India 🇮🇳                  │
-│   Status   : Available for Hire ✅      │
-│   XP Level : ████████████ 87%          │
-│   Rank     : ⭐ Senior Engineer         │
-└─────────────────────────────────────────┘
-```
-
-**🌟 About Me:**
-- 💡 **Full Stack Developer** with 1+ year building secure, scalable web apps
-- ⚙️ Expert in **React.js, Node.js, Python, MongoDB & AWS**
-- 🌐 Integrated **Razorpay, WhatsApp Cloud API, Google Maps API**
-- 🎓 **MCA Student** @ Technocrats Institute of Technology
-- 🚀 Passionate about **PWAs, Cloud Architectures & Developer Tooling**
-
-  </td>
-  <td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=7C3AED&text_color=c9d1d9&ring_color=00F0FF" alt="GitHub Stats" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FF4500&center=true&vCenter=true&width=420&height=35&lines=%E2%96%93+SHADOW+DOSSIER+%7C+IDENTITY+FILE+%E2%96%93" alt="Section" />
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-Rahul-JS&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=7C3AED&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=4a5568" alt="GitHub Streak" />
+<table align="center" border="0" cellpadding="10">
+<tr>
+<td width="52%" valign="top">
 
-  </td>
-  </tr>
+```
+╔═══════════════════════════════════════════╗
+║  🥷  NINJA IDENTITY FILE — CLASSIFIED     ║
+╠═══════════════════════════════════════════╣
+║  Codename  :  RC-Rahul-JS                 ║
+║  Real Name :  Rahul Choudhary             ║
+║  Class     :  Full Stack Shadow Dev       ║
+║  Weapons   :  React · Node · Python · AWS ║
+║  Territory :  India  🇮🇳                  ║
+║  Status    :  ACTIVE — Open to Hire ✅    ║
+╠═══════════════════════════════════════════╣
+║  🔥 REAL BATTLE RECORD (Verified)         ║
+║  ───────────────────────────────────────  ║
+║  ⚡ Contributions  : 141  (this year)     ║
+║  📦 Repositories   : 31  (public)         ║
+║  ⭐ Stars Earned   : 10  (total)          ║
+║  👥 Followers       : 1                   ║
+║  👣 Following       : 4                   ║
+╠═══════════════════════════════════════════╣
+║  📖 Discipline : MCA @ Technocrats Inst.  ║
+╚═══════════════════════════════════════════╝
+```
+
+</td>
+<td width="48%" valign="top" align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=FF4500&icon_color=FFD700&text_color=cccccc&ring_color=FF4500" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-Rahul-JS&theme=dark&hide_border=true&background=0d0d0d&ring=FF4500&fire=FFD700&currStreakLabel=FF4500&sideLabels=8B0000&currStreakNum=FFD700&sideNums=cccccc&dates=666666" alt="Streak" />
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               🐍  SHADOW SNAKE — CONTRIBUTION GRID      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=8B0000&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+SHADOW+SERPENT+%7C+CONTRIBUTION+GRID+%E2%96%93" alt="Section" />
+</div>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Shadow Serpent eating contributions" src="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </picture>
 </div>
 
 ---
 
-## 📊 GitHub Intelligence Dashboard
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--             ⚔️  NINJA MISSION BOARD — PROJECTS          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true" alt="Rahul GitHub Stats" width="49%" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&layout=compact&langs_count=8&count_private=true" alt="Top Languages" width="36%" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FFD700&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+MISSION+BOARD+%7C+ACTIVE+DEPLOYMENTS+%E2%96%93" alt="Section" />
 </div>
 
 <br/>
 
-### 🏆 Achievement Vault
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🌟_STARS-Earned_Across_Repos-FFD700?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/💻_COMMITS-219%2B_This_Year-00F0FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🍴_REPOS-28%2B_Projects-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🔀_PULL_REQUESTS-15%2B_Merged-00FF88?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🐛_ISSUES-20%2B_Solved-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🌐_MULTI_LANG-JS%20|%20Python%20|%20React-FF8C00?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/☁️_CLOUD-AWS%20Deployed-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🎓_MCA-Technocrats_Institute-4CAF50?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-### 📈 Activity Timeline
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RC-Rahul-JS&bg_color=0d1117&color=00F0FF&line=7C3AED&point=00FF88&area=true&area_color=7C3AED&hide_border=true&custom_title=⚡%20Rahul's%20Contribution%20Timeline&radius=8" alt="Activity Graph" width="95%" />
-</div>
-
----
-
-## 🎮 GitHub Game Arena — Developer RPG
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🎮  DEVELOPER RPG STATS — RAHUL CHOUDHARY                         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  CLASS: Full Stack Wizard ⚡    RANK: Senior Engineer 🌟             ║
-║  GUILD: MERN Stack Masters 🛡️   SERVER: GitHub Universe 🌐          ║
-╠═══════════════════════╦══════════════════════════════════════════════╣
-║  📊 LEVEL METER       ║  ⚔️  BATTLE STATS                           ║
-║  ─────────────────    ║  ──────────────────────────────────────      ║
-║  React.js  ████████▓▒ ║  💻 Commits      : ████████████ 219+       ║
-║  Node.js   ███████▓▒░ ║  🍴 Repos        : ██████████░░ 28+        ║
-║  Python    ██████▓▒░░ ║  ⭐ Stars Earned  : ████████░░░░ 12+       ║
-║  AWS       █████▓▒░░░ ║  🔀 Pull Requests : ██████░░░░░░ 15+       ║
-║  MongoDB   ████████▓░ ║  🐛 Issues Solved : ███████░░░░░ 20+       ║
-╠═══════════════════════╩══════════════════════════════════════════════╣
-║  🏅 ACHIEVEMENTS UNLOCKED                                            ║
-║  ─────────────────────────────────────────────────────────────────   ║
-║  🥇 [MERN MASTER]   React + Node + MongoDB Expert — UNLOCKED ✅     ║
-║  🚀 [CLOUD PILOT]   AWS S3 + Lambda Deployed — UNLOCKED ✅          ║
-║  🔥 [STREAK KING]   Consistent Daily Commits — UNLOCKED ✅          ║
-║  🌐 [API WIZARD]    REST + WhatsApp + Razorpay — UNLOCKED ✅        ║
-║  🎓 [SCHOLAR]       Pursuing MCA Degree — IN PROGRESS 🔄            ║
-║  🐍 [PYTHONISTA]    Python Backend Solutions — UNLOCKED ✅           ║
-║  💡 [INNOVATOR]     PWA + Vite Deployment — UNLOCKED ✅             ║
-║  🛡️ [BOSS SLAYER]   219+ Contributions in 1 year — LEGEND 🏆       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🎯 NEXT QUEST: System Design Expert   XP: ████████░░ 87/100       ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⚔️_LEVEL-87%2F100-00F0FF?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🔥_STREAK-219+_COMMITS-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🏆_RANK-SENIOR_ENGINEER-7C3AED?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🌟_CLASS-FULL_STACK_WIZARD-00FF88?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
----
-
-## ⚡ Tech Arsenal
-
-### Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite&theme=dark&perline=9" alt="Frontend" />
-</div>
-
-### Backend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql&theme=dark&perline=9" alt="Backend" />
-</div>
-
-### Database & Cloud
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,redis&theme=dark&perline=9" alt="Database" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,netlify&theme=dark&perline=9" alt="Cloud" />
-</div>
-
-### Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash&theme=dark&perline=9" alt="Tools" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center" border="0" cellpadding="12" cellspacing="0">
+<table align="center" border="0" cellpadding="10">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ```
-╔══════════════════════════════════════╗
-║  🚀  PROJECT: SAPTAK                ║
-║  ● ACTIVE  ● DEPLOYED  ● PWA        ║
-╠══════════════════════════════════════╣
-║  TYPE    : Progressive Web App       ║
-║  STACK   : React.js + Vite          ║
-║  DEPLOY  : Cloud / Vercel           ║
-║  STATUS  : ✅ LIVE IN PRODUCTION    ║
-║                                      ║
-║  FEATURES:                           ║
-║  ⚡ Lightning fast Vite build        ║
-║  📱 Mobile-first responsive UI       ║
-║  ☁️  Cloud-deployed infrastructure   ║
-║  🔄 PWA offline capabilities         ║
-║                                      ║
-║  Speed  ████████████████ 95/100     ║
-║  PWA    ██████████████░░ 90/100     ║
-║  SEO    ███████████████░ 92/100     ║
-╚══════════════════════════════════════╝
+┌─────────────────────────────┐
+│ ⚔️  MISSION: SAPTAK MUSIC   │
+│ ● LIVE  ● PWA  ● DEPLOYED  │
+├─────────────────────────────┤
+│ Stack  : React.js + Vite   │
+│ Type   : Music Web App     │
+│ Deploy : Cloud / Vercel    │
+│ Status : ✅ PRODUCTION     │
+│                             │
+│ saptakmusic-web-app         │
+│ [github.com/RC-Rahul-JS]   │
+└─────────────────────────────┘
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ```
-╔══════════════════════════════════════╗
-║  🏢  PROJECT: DUNIYAPE TECH         ║
-║  ● ACTIVE  ● FULLSTACK  ● AWS       ║
-╠══════════════════════════════════════╣
-║  TYPE    : Full Stack Platform       ║
-║  FRONTEND: React.js                  ║
-║  BACKEND : Node.js + Express         ║
-║  DATABASE: MongoDB                   ║
-║  CLOUD   : AWS + Amazon S3           ║
-║                                      ║
-║  FEATURES:                           ║
-║  🔗 REST API Architecture            ║
-║  ☁️  AWS Cloud Integration           ║
-║  🪣 Amazon S3 File Storage          ║
-║  🔐 Secure Auth System              ║
-║  💳 Razorpay Payment Gateway        ║
-║                                      ║
-║  API     ████████████████ 96/100    ║
-║  Uptime  ████████████████ 99.9%     ║
-╚══════════════════════════════════════╝
+┌─────────────────────────────┐
+│ 🏥  MISSION: C2C PLATFORM  │
+│ ● LIVE  ● FULLSTACK  ● API  │
+├─────────────────────────────┤
+│ Frontend : JavaScript      │
+│ Backend  : Node.js         │
+│ API      : REST + Twilio   │
+│ Status   : ✅ DEPLOYED     │
+│                             │
+│ C2CWEB + c2c-1              │
+│ Stars : ⭐ 1 each          │
+└─────────────────────────────┘
+```
+
+</td>
+<td width="33%" valign="top">
+
+```
+┌─────────────────────────────┐
+│ 📱  MISSION: CARE2CONNECT   │
+│ ● MOBILE  ● APP  ● LIVE    │
+├─────────────────────────────┤
+│ Type    : Mobile App       │
+│ Status  : ✅ PRODUCTION    │
+│ Stars   : ⭐ 1             │
+│                             │
+│ care2connect_app            │
+│ [github.com/RC-Rahul-JS]   │
+└─────────────────────────────┘
+```
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+```
+┌─────────────────────────────┐
+│ 🏗️  MISSION: CONSTRUCTION  │
+│ ● WEB  ● JS  ● DEPLOYED    │
+├─────────────────────────────┤
+│ Stack  : JavaScript        │
+│ Stars  : ⭐ 1              │
+│ Status : ✅ LIVE           │
+│                             │
+│ construction-site-          │
+│ [github.com/RC-Rahul-JS]   │
+└─────────────────────────────┘
+```
+
+</td>
+<td width="33%" valign="top">
+
+```
+┌─────────────────────────────┐
+│ 🏫  MISSION: VIVEKANAND    │
+│ ● SCHOOL  ● WEB  ● JS      │
+├─────────────────────────────┤
+│ Stack  : JavaScript        │
+│ Stars  : ⭐ 1              │
+│ Status : ✅ LIVE           │
+│                             │
+│ VIVEKANAD-SCHOOL            │
+│ [github.com/RC-Rahul-JS]   │
+└─────────────────────────────┘
+```
+
+</td>
+<td width="33%" valign="top">
+
+```
+┌─────────────────────────────┐
+│ 🗺️  MISSION: 360 MAP       │
+│ ● ACTIVE  ● JS  ● LATEST   │
+├─────────────────────────────┤
+│ Stack  : JavaScript        │
+│ Type   : Panorama Viewer   │
+│ Status : 🔄 IN PROGRESS    │
+│                             │
+│ 360_map                     │
+│ [github.com/RC-Rahul-JS]   │
+└─────────────────────────────┘
 ```
 
 </td>
@@ -258,78 +225,178 @@
 
 ---
 
-## 🤖 AI Developer Assistant
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  🤖  RAHUL.AI — DEVELOPER INTELLIGENCE SYSTEM  v2.0              │
-│  ● ONLINE   ● MONITORING   ● ALL SYSTEMS NOMINAL                 │
-├──────────────────────────┬───────────────────────────────────────┤
-│  📁 CURRENT PROJECT      │  Saptak PWA + Duniyape Technologies   │
-│  💾 LATEST COMMIT        │  feat: AWS S3 integration + API fix   │
-│  🚀 DEPLOYMENT STATUS    │  ✅ LIVE ON PRODUCTION                │
-│  🏗️  BUILD STATUS        │  ✅ SUCCESS — All Tests Passed        │
-│  🔥 CODING STREAK        │  219+ contributions this year 🌟      │
-│  🐛 OPEN ISSUES          │  3 tracked / 2 in progress            │
-│  📊 PRODUCTIVITY SCORE   │  ████████████████████ 94/100 🏆       │
-├──────────────────────────┴───────────────────────────────────────┤
-│  ⚡ "Rahul ships consistently and scales smart."                  │
-│     MERN expertise is battle-tested & production-ready. 🚀       │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 Advanced Analytics
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                🥷  NINJA STATS — REAL DATA ONLY         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RC-Rahul-JS&theme=tokyonight" alt="Profile Summary" width="95%" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FF4500&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+COMBAT+RECORD+%7C+VERIFIED+REAL+DATA+%E2%96%93" alt="Section" />
+</div>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RC-Rahul-JS&theme=tokyonight" alt="Repos Per Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RC-Rahul-JS&theme=tokyonight" alt="Most Commit Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RC-Rahul-JS&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%" />
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  🥷  SHADOW NINJA COMBAT LOG — VERIFIED GITHUB STATS                    ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  ⚡ Contributions This Year  │  141  ███████████░░░░░░░░░               ║
+║  📦 Public Repositories      │   31  ████████████████░░░░               ║
+║  ⭐ Total Stars Earned       │   10  █████░░░░░░░░░░░░░░░               ║
+║  👥 Followers                │    1  █░░░░░░░░░░░░░░░░░░░  (growing!)   ║
+║  👣 Following                │    4  ██░░░░░░░░░░░░░░░░░░               ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🔥 LANGUAGES IN THE ARSENAL (Real — from repos)                        ║
+║  ────────────────────────────────────────────────────────────────────── ║
+║  JavaScript  ██████████████████░░  Primary Language   (20+ repos)      ║
+║  Python      ██████░░░░░░░░░░░░░░  Strong Secondary   (4 repos)        ║
+║  HTML        ████░░░░░░░░░░░░░░░░  Foundation Layer   (3 repos)        ║
+║  CSS         ████░░░░░░░░░░░░░░░░  Styling Arsenal    (paired)         ║
+║  Makefile    █░░░░░░░░░░░░░░░░░░░  DevOps Tools       (1 repo)         ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🎯 NINJA RANK: Shadow Dev     NEXT: 10 Followers = SHADOW MASTER 🥷   ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-141_This_Year-FF4500?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/REPOSITORIES-31_Public-8B0000?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/STARS_EARNED-10_Total-FFD700?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
 ---
 
-## 🌐 Connect — Join the Network
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              ⚙️  NINJA WEAPON LOADOUT — TECH STACK      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=8B0000&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+WEAPON+LOADOUT+%7C+TECH+ARSENAL+%E2%96%93" alt="Section" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**⚔️ Frontend Blades**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,redux&theme=dark&perline=7" alt="Frontend" />
+
+**🔥 Backend Force**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=dark&perline=7" alt="Backend" />
+
+**🗄️ Data Vaults**
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark&perline=7" alt="Database" />
+
+**☁️ Cloud Strongholds**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark&perline=7" alt="Cloud" />
+
+**🛠️ Ninja Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=7" alt="Tools" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--             📊  INTELLIGENCE ANALYTICS                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FFD700&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+INTELLIGENCE+REPORTS+%7C+ANALYTICS+%E2%96%93" alt="Section" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF4500&text_color=cccccc&layout=compact&langs_count=8&count_private=true" alt="Top Languages" width="45%" />
+
+&nbsp;
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=FF4500&icon_color=FFD700&text_color=cccccc&include_all_commits=true" alt="GitHub Stats" width="50%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RC-Rahul-JS&bg_color=0d0d0d&color=FF4500&line=8B0000&point=FFD700&area=true&area_color=1a0000&hide_border=true&custom_title=Shadow+Ninja+Contribution+Timeline&radius=6" alt="Activity Graph" width="95%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              📊  DEEP ANALYTICS SUITE                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RC-Rahul-JS&theme=github_dark" alt="Profile Summary" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RC-Rahul-JS&theme=github_dark" alt="Repos Per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RC-Rahul-JS&theme=github_dark" alt="Most Commit Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RC-Rahul-JS&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  🥷  NINJA CODE SCROLL                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=8B0000&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+SHADOW+TRANSMISSION+%7C+CONTACT+%E2%96%93" alt="Section" />
+</div>
+
+<br/>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🌐  RAHUL CHOUDHARY — DEVELOPER NETWORK                    ║
-╠══════════════════════════════════════════════════════════════╣
-║  📧  Email    : rahulrc.dev@gmail.com                        ║
-║  💼  LinkedIn : linkedin.com/in/rc-rahul                     ║
-║  🐙  GitHub   : github.com/RC-Rahul-JS                       ║
-║  🚀  Open to  : Full Stack Roles | Freelance | Collab        ║
-╠══════════════════════════════════════════════════════════════╣
-║  💬  "Code is poetry. Ships are stories."                    ║
-║      — Building tomorrow's apps, today. 🚀                  ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  🥷  SHADOW TRANSMISSION — OPEN CHANNEL                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  📧  rahulrc.dev@gmail.com                                       ║
+║  💼  linkedin.com/in/rc-rahul                                    ║
+║  🐙  github.com/RC-Rahul-JS  (31 repos · 141 contributions)     ║
+║                                                                  ║
+║  🎯  Open to : Full Stack Roles · Freelance · Collaboration      ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  "Strike fast. Code clean. Leave no bugs."  — Shadow Ninja 🥷   ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a0a" /></a>
+<a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/Send+Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/🤝_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00101a" /></a>
 &nbsp;
-<a href="https://github.com/RC-Rahul-JS?tab=repositories"><img src="https://img.shields.io/badge/📦_View_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/RC-Rahul-JS?tab=repositories"><img src="https://img.shields.io/badge/View+Repos-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="65%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a2e,100:001a3d&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:1a0000,100:000000&height=100&section=footer&reversal=true" alt="Footer" />
 
 </div>
 
-<!-- ████ END OF RAHUL CHOUDHARY'S ELITE PROFILE README ████ -->
+<!-- ▓▓▓ END — RAHUL CHOUDHARY | SHADOW CODE NINJA | RC-Rahul-JS ▓▓▓ -->
