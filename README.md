@@ -1,4 +1,4 @@
-﻿<!-- RAHUL CHOUDHARY | GITHUB PROFILE README -->
+<!-- RAHUL CHOUDHARY | GITHUB PROFILE README -->
 
 <div align="center">
 
@@ -40,6 +40,10 @@
 &nbsp;
 <a href="tel:+917089449249"><img src="https://img.shields.io/badge/Phone-%2B91%207089449249-52B788?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117"/></a>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
+
 </div>
 
 ---
@@ -61,7 +65,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=700&color=48CAE4&center=true&vCenter=true&width=330&height=185&multiline=true&lines=const+rahul+%3D+%7B;++stack%3A+%22MERN+%7C+Next.js+%7C+Python%22%2C;++frontend%3A+%22React+%7C+Tailwind+%7C+TypeScript%22%2C;++backend%3A+%22Node.js+%7C+Express+%7C+REST%22%2C;++devops%3A+%22AWS+%7C+CI%2FCD+%7C+Docker%22%2C;++projects%3A+%2212+Live+in+Production%22%2C;++location%3A+%22India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Remote+Ready%22%2C;++status%3A+%22Open+for+Hire+%F0%9F%9F%A2%22;%7D%3B" />
+<img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="320" alt="Developer at Work"/>
 
 </td>
 </tr></table>
