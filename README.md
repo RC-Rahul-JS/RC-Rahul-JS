@@ -1,4 +1,4 @@
-﻿<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
 <!--                  🚀 RAHUL CHOUDHARY — ELITE PROFILE README          -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
 
@@ -64,7 +64,7 @@
   </td>
   <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RC-Rahul-JS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=7C3AED&text_color=c9d1d9&ring_color=00F0FF" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=7C3AED&text_color=c9d1d9&ring_color=00F0FF" alt="GitHub Stats" />
 
 <br/>
 
@@ -92,9 +92,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RC-Rahul-JS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true" alt="Rahul GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true" alt="Rahul GitHub Stats" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&layout=donut-vertical&langs_count=8&count_private=true" alt="Top Languages" width="36%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&layout=compact&langs_count=8&count_private=true" alt="Top Languages" width="36%" />
 
 </div>
 
@@ -103,7 +103,19 @@
 ### 🏆 Achievement Vault
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RC-Rahul-JS&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Trophies" />
+
+<img src="https://img.shields.io/badge/🌟_STARS-Earned_Across_Repos-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💻_COMMITS-219%2B_This_Year-00F0FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🍴_REPOS-28%2B_Projects-7C3AED?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔀_PULL_REQUESTS-15%2B_Merged-00FF88?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🐛_ISSUES-20%2B_Solved-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🌐_MULTI_LANG-JS%20|%20Python%20|%20React-FF8C00?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/☁️_CLOUD-AWS%20Deployed-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎓_MCA-Technocrats_Institute-4CAF50?style=for-the-badge&labelColor=0d1117" />
+
 </div>
 
 ### 📈 Activity Timeline
