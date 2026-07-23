@@ -1,402 +1,162 @@
-﻿<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--              🥷 RC-RAHUL-JS — SHADOW CODE NINJA PROFILE             -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+﻿<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--          RAHUL CHOUDHARY — FULL STACK DEVELOPER          -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,40:0a0a0a,70:1a0000,100:0d0d0d&height=220&section=header&text=RAHUL%20CHOUDHARY&fontSize=58&fontColor=FF4500&animation=fadeIn&fontAlignY=45&desc=Shadow%20Code%20Ninja%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=68&descSize=16&stroke=FF4500&strokeWidth=1" alt="Rahul Choudhary — Shadow Ninja" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:111111&height=200&section=header&text=RAHUL%20CHOUDHARY&fontSize=52&fontColor=f5f5f5&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20React%20%7C%20Node.js%20%7C%20Python%20%7C%20AWS&descAlignY=68&descSize=15&stroke=CC0000&strokeWidth=1" alt="Rahul Choudhary" />
 
 <br/>
 
 <a href="https://github.com/RC-Rahul-JS">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2800&pause=1200&color=FF4500&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Shadow+Code+Ninja;MERN+Stack+%7C+React+%7C+Node.js+%7C+Python;AWS+Cloud+%7C+REST+APIs+%7C+MongoDB;Strike+fast.+Ship+clean.+Leave+no+bugs." alt="Ninja Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=680&height=45&lines=Full+Stack+Developer+%7C+1%2B+Year+Experience;React.js+%7C+Node.js+%7C+Python+%7C+AWS+%7C+MongoDB;Building+scalable%2C+production-ready+web+applications;Open+to+Full+Stack+Roles+%26+Collaborations" alt="Typing" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&label=PROFILE+VIEWS&color=FF4500&style=for-the-badge&labelColor=0d0d0d" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/RC-Rahul-JS?label=FOLLOWERS&style=for-the-badge&color=8B0000&labelColor=0d0d0d&logo=github&logoColor=FF4500" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20HIRE-FFD700?style=for-the-badge&labelColor=0d0d0d&logo=checkmarx&logoColor=FFD700" />
+<img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&label=PROFILE+VIEWS&color=CC0000&style=flat-square&labelColor=0a0a0a" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/RC-Rahul-JS?label=FOLLOWERS&style=flat-square&color=555555&labelColor=0a0a0a&logo=github&logoColor=f5f5f5" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-CC0000?style=flat-square&labelColor=0a0a0a" />
 
 <br/><br/>
 
-<a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000" /></a>
+<a href="tel:+917089449249"><img src="https://img.shields.io/badge/%2B91%207089449249-0a0a0a?style=flat-square&logo=phone&logoColor=CC0000" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00101a" /></a>
+<a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/rahulrc.dev%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=CC0000" /></a>
 &nbsp;
-<a href="https://github.com/RC-Rahul-JS"><img src="https://img.shields.io/badge/GITHUB-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Frc--rahul-0a0a0a?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
+&nbsp;
+<a href="https://github.com/RC-Rahul-JS"><img src="https://img.shields.io/badge/github.com%2FRC--Rahul--JS-0a0a0a?style=flat-square&logo=github&logoColor=f5f5f5" /></a>
+
+</div>
+
+<br/>
+
+---
+
+## Professional Summary
+
+Full Stack Developer with **1+ year** of experience engineering secure, scalable web applications using **React.js, Node.js, Python, SQL, and MongoDB**. Proven track record delivering role-based **(RBAC/JWT)** multi-module systems, integrating complex third-party APIs (**Razorpay, WhatsApp Cloud API, Google Maps API**) and deploying high-performance cloud solutions on **AWS (EC2, S3)**.
+
+---
+
+## Professional Experience
+
+### Full Stack Developer &nbsp;·&nbsp; Duniyape Technologies Pvt. Ltd.
+**`May 2025 – Present`** &nbsp;&nbsp; Bhopal, India
+
+<br/>
+
+**Sadapoorna Trader — FMCG Distribution Management Platform**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Firebase` `Python` `React Query` `Google Maps API` `WhatsApp Cloud API`
+
+- Engineered a scalable **Full Stack ERP** for an FMCG distribution business, streamlining inventory, procurement, sales, logistics, and payments across multiple modules.
+- Developed **30+ secure REST APIs** with JWT-based authentication, role-based access control (RBAC), and core modules for order management, inventory tracking, vendor management, analytics, and automated billing.
+- Integrated **Google Maps API** and **WhatsApp Cloud API** for live order tracking, route optimization, invoice sharing, and automated customer communication.
+
+<br/>
+
+**Care2Connect — Healthcare Appointment & Telemedicine Platform**
+
+`React.js` `JavaScript (ES6+)` `Tailwind CSS` `Node.js` `REST APIs` `AWS S3` `Razorpay` `WhatsApp Cloud API`
+
+- Developed end-to-end healthcare modules for **Doctor, Patient, Hospital, Pharmacy, and Laboratory** portals — enabling appointment booking, teleconsultation, prescription management, and lab workflows.
+- Built responsive React.js interfaces and scalable Node.js REST APIs integrated with **Razorpay, WhatsApp Cloud API, and AWS S3** for secure payments, automated notifications, and medical document storage.
+- Improved application performance through reusable React components, optimized REST API calls, and asynchronous data fetching — enhancing scalability and user experience.
+
+---
+
+## Personal Projects
+
+### Saptak — Music Learning & Social Platform
+
+`React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Firebase Auth` `JWT` `Tailwind CSS` `AWS S3` `Google Maps API`
+
+- Developed a full-stack **Progressive Web Application (PWA)** for music institutes featuring role-based Teacher and Student portals, course management, and support for Tabla, Harmonium, Guitar, Piano, and Flute.
+- Built interactive music practice modules including an **Ear Training system** with dynamic note frequency generation, pitch recognition, level progression, and Tanpura-based Swar Sadhana exercises.
+- Engineered scalable Node.js REST APIs and integrated **AWS S3** for secure media storage — enabling upload of notes, videos, and audio lessons, with a social feed supporting text, images, audio, reels, likes, and comments.
+
+---
+
+## Technical Skills
+
+| Domain | Technologies |
+|---|---|
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Axios, React Query, TypeScript |
+| **Backend & APIs** | Node.js, Express.js, Python, REST APIs, JWT, RBAC |
+| **Cloud & DevOps** | AWS (EC2, S3), Git, GitHub, Vercel |
+| **Databases** | MongoDB, Firebase Firestore, SQL |
+| **Integrations** | Razorpay, WhatsApp Cloud API, Google Maps API |
+| **AI Tools** | ChatGPT, Claude AI, Google Gemini, AntiGravity AI |
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase,mysql&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,figma&theme=dark&perline=7" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              🥷  NINJA DOSSIER — IDENTITY               -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## GitHub Activity
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FF4500&center=true&vCenter=true&width=420&height=35&lines=%E2%96%93+SHADOW+DOSSIER+%7C+IDENTITY+FILE+%E2%96%93" alt="Section" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&icon_color=CC0000&text_color=cccccc&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&text_color=cccccc&layout=compact&langs_count=8&count_private=true" width="47%" alt="Top Languages" />
+
 </div>
 
 <br/>
 
-<table align="center" border="0" cellpadding="10">
-<tr>
-<td width="52%" valign="top">
-
-```
-╔═══════════════════════════════════════════╗
-║  🥷  NINJA IDENTITY FILE — CLASSIFIED     ║
-╠═══════════════════════════════════════════╣
-║  Codename  :  RC-Rahul-JS                 ║
-║  Real Name :  Rahul Choudhary             ║
-║  Class     :  Full Stack Shadow Dev       ║
-║  Weapons   :  React · Node · Python · AWS ║
-║  Territory :  India  🇮🇳                  ║
-║  Status    :  ACTIVE — Open to Hire ✅    ║
-╠═══════════════════════════════════════════╣
-║  🔥 REAL BATTLE RECORD (Verified)         ║
-║  ───────────────────────────────────────  ║
-║  ⚡ Contributions  : 141  (this year)     ║
-║  📦 Repositories   : 31  (public)         ║
-║  ⭐ Stars Earned   : 10  (total)          ║
-║  👥 Followers       : 1                   ║
-║  👣 Following       : 4                   ║
-╠═══════════════════════════════════════════╣
-║  📖 Discipline : MCA @ Technocrats Inst.  ║
-╚═══════════════════════════════════════════╝
-```
-
-</td>
-<td width="48%" valign="top" align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=FF4500&icon_color=FFD700&text_color=cccccc&ring_color=FF4500" alt="GitHub Stats" />
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-Rahul-JS&theme=dark&hide_border=true&background=0a0a0a&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=666666&currStreakNum=f5f5f5&sideNums=cccccc&dates=555555" width="55%" alt="Streak" />
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-Rahul-JS&theme=dark&hide_border=true&background=0d0d0d&ring=FF4500&fire=FFD700&currStreakLabel=FF4500&sideLabels=8B0000&currStreakNum=FFD700&sideNums=cccccc&dates=666666" alt="Streak" />
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               🐍  SHADOW SNAKE — CONTRIBUTION GRID      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=8B0000&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+SHADOW+SERPENT+%7C+CONTRIBUTION+GRID+%E2%96%93" alt="Section" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RC-Rahul-JS&bg_color=0a0a0a&color=f5f5f5&line=CC0000&point=f5f5f5&area=true&area_color=1a0000&hide_border=true&custom_title=Contribution+Activity+—+2025&radius=4" width="95%" alt="Activity Graph" />
 </div>
+
+<br/>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake.svg">
-  <img alt="Shadow Serpent eating contributions" src="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </picture>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--             ⚔️  NINJA MISSION BOARD — PROJECTS          -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## Education
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FFD700&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+MISSION+BOARD+%7C+ACTIVE+DEPLOYMENTS+%E2%96%93" alt="Section" />
-</div>
-
-<br/>
-
-<table align="center" border="0" cellpadding="10">
-<tr>
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────┐
-│ ⚔️  MISSION: SAPTAK MUSIC   │
-│ ● LIVE  ● PWA  ● DEPLOYED  │
-├─────────────────────────────┤
-│ Stack  : React.js + Vite   │
-│ Type   : Music Web App     │
-│ Deploy : Cloud / Vercel    │
-│ Status : ✅ PRODUCTION     │
-│                             │
-│ saptakmusic-web-app         │
-│ [github.com/RC-Rahul-JS]   │
-└─────────────────────────────┘
-```
-
-</td>
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────┐
-│ 🏥  MISSION: C2C PLATFORM  │
-│ ● LIVE  ● FULLSTACK  ● API  │
-├─────────────────────────────┤
-│ Frontend : JavaScript      │
-│ Backend  : Node.js         │
-│ API      : REST + Twilio   │
-│ Status   : ✅ DEPLOYED     │
-│                             │
-│ C2CWEB + c2c-1              │
-│ Stars : ⭐ 1 each          │
-└─────────────────────────────┘
-```
-
-</td>
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────┐
-│ 📱  MISSION: CARE2CONNECT   │
-│ ● MOBILE  ● APP  ● LIVE    │
-├─────────────────────────────┤
-│ Type    : Mobile App       │
-│ Status  : ✅ PRODUCTION    │
-│ Stars   : ⭐ 1             │
-│                             │
-│ care2connect_app            │
-│ [github.com/RC-Rahul-JS]   │
-└─────────────────────────────┘
-```
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────┐
-│ 🏗️  MISSION: CONSTRUCTION  │
-│ ● WEB  ● JS  ● DEPLOYED    │
-├─────────────────────────────┤
-│ Stack  : JavaScript        │
-│ Stars  : ⭐ 1              │
-│ Status : ✅ LIVE           │
-│                             │
-│ construction-site-          │
-│ [github.com/RC-Rahul-JS]   │
-└─────────────────────────────┘
-```
-
-</td>
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────┐
-│ 🏫  MISSION: VIVEKANAND    │
-│ ● SCHOOL  ● WEB  ● JS      │
-├─────────────────────────────┤
-│ Stack  : JavaScript        │
-│ Stars  : ⭐ 1              │
-│ Status : ✅ LIVE           │
-│                             │
-│ VIVEKANAD-SCHOOL            │
-│ [github.com/RC-Rahul-JS]   │
-└─────────────────────────────┘
-```
-
-</td>
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────┐
-│ 🗺️  MISSION: 360 MAP       │
-│ ● ACTIVE  ● JS  ● LATEST   │
-├─────────────────────────────┤
-│ Stack  : JavaScript        │
-│ Type   : Panorama Viewer   │
-│ Status : 🔄 IN PROGRESS    │
-│                             │
-│ 360_map                     │
-│ [github.com/RC-Rahul-JS]   │
-└─────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+| Degree | Institution | Period |
+|---|---|---|
+| **Master of Computer Applications** | Technocrats Institute of Technology, Bhopal | 07/2024 – 05/2026 |
+| **Bachelor of Science (Computer Science)** | Barkatullah University, Bhopal | 06/2016 – 05/2019 |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                🥷  NINJA STATS — REAL DATA ONLY         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FF4500&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+COMBAT+RECORD+%7C+VERIFIED+REAL+DATA+%E2%96%93" alt="Section" />
-</div>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  🥷  SHADOW NINJA COMBAT LOG — VERIFIED GITHUB STATS                    ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║  ⚡ Contributions This Year  │  141  ███████████░░░░░░░░░               ║
-║  📦 Public Repositories      │   31  ████████████████░░░░               ║
-║  ⭐ Total Stars Earned       │   10  █████░░░░░░░░░░░░░░░               ║
-║  👥 Followers                │    1  █░░░░░░░░░░░░░░░░░░░  (growing!)   ║
-║  👣 Following                │    4  ██░░░░░░░░░░░░░░░░░░               ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  🔥 LANGUAGES IN THE ARSENAL (Real — from repos)                        ║
-║  ────────────────────────────────────────────────────────────────────── ║
-║  JavaScript  ██████████████████░░  Primary Language   (20+ repos)      ║
-║  Python      ██████░░░░░░░░░░░░░░  Strong Secondary   (4 repos)        ║
-║  HTML        ████░░░░░░░░░░░░░░░░  Foundation Layer   (3 repos)        ║
-║  CSS         ████░░░░░░░░░░░░░░░░  Styling Arsenal    (paired)         ║
-║  Makefile    █░░░░░░░░░░░░░░░░░░░  DevOps Tools       (1 repo)         ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  🎯 NINJA RANK: Shadow Dev     NEXT: 10 Followers = SHADOW MASTER 🥷   ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-141_This_Year-FF4500?style=for-the-badge&labelColor=0d0d0d" />
-&nbsp;
-<img src="https://img.shields.io/badge/REPOSITORIES-31_Public-8B0000?style=for-the-badge&labelColor=0d0d0d" />
-&nbsp;
-<img src="https://img.shields.io/badge/STARS_EARNED-10_Total-FFD700?style=for-the-badge&labelColor=0d0d0d" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              ⚙️  NINJA WEAPON LOADOUT — TECH STACK      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=8B0000&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+WEAPON+LOADOUT+%7C+TECH+ARSENAL+%E2%96%93" alt="Section" />
-</div>
+`141 Contributions` &nbsp;&middot;&nbsp; `31 Repositories` &nbsp;&middot;&nbsp; `10 Stars` &nbsp;&middot;&nbsp; `India`
 
 <br/>
 
-<div align="center">
-
-**⚔️ Frontend Blades**
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,redux&theme=dark&perline=7" alt="Frontend" />
-
-**🔥 Backend Force**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=dark&perline=7" alt="Backend" />
-
-**🗄️ Data Vaults**
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark&perline=7" alt="Database" />
-
-**☁️ Cloud Strongholds**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark&perline=7" alt="Cloud" />
-
-**🛠️ Ninja Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=7" alt="Tools" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,100:0a0a0a&height=80&section=footer&reversal=false&stroke=CC0000&strokeWidth=1" alt="Footer" />
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--             📊  INTELLIGENCE ANALYTICS                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=FFD700&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+INTELLIGENCE+REPORTS+%7C+ANALYTICS+%E2%96%93" alt="Section" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RC-Rahul-JS&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF4500&text_color=cccccc&layout=compact&langs_count=8&count_private=true" alt="Top Languages" width="45%" />
-
-&nbsp;
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RC-Rahul-JS&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=FF4500&icon_color=FFD700&text_color=cccccc&include_all_commits=true" alt="GitHub Stats" width="50%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RC-Rahul-JS&bg_color=0d0d0d&color=FF4500&line=8B0000&point=FFD700&area=true&area_color=1a0000&hide_border=true&custom_title=Shadow+Ninja+Contribution+Timeline&radius=6" alt="Activity Graph" width="95%" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              📊  DEEP ANALYTICS SUITE                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RC-Rahul-JS&theme=github_dark" alt="Profile Summary" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RC-Rahul-JS&theme=github_dark" alt="Repos Per Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RC-Rahul-JS&theme=github_dark" alt="Most Commit Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RC-Rahul-JS&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  🥷  NINJA CODE SCROLL                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=99999&pause=99999&color=8B0000&center=true&vCenter=true&width=450&height=35&lines=%E2%96%93+SHADOW+TRANSMISSION+%7C+CONTACT+%E2%96%93" alt="Section" />
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🥷  SHADOW TRANSMISSION — OPEN CHANNEL                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  📧  rahulrc.dev@gmail.com                                       ║
-║  💼  linkedin.com/in/rc-rahul                                    ║
-║  🐙  github.com/RC-Rahul-JS  (31 repos · 141 contributions)     ║
-║                                                                  ║
-║  🎯  Open to : Full Stack Roles · Freelance · Collaboration      ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  "Strike fast. Code clean. Leave no bugs."  — Shadow Ninja 🥷   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<a href="mailto:rahulrc.dev@gmail.com"><img src="https://img.shields.io/badge/Send+Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/rc-rahul"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00101a" /></a>
-&nbsp;
-<a href="https://github.com/RC-Rahul-JS?tab=repositories"><img src="https://img.shields.io/badge/View+Repos-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="65%" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:1a0000,100:000000&height=100&section=footer&reversal=true" alt="Footer" />
-
-</div>
-
-<!-- ▓▓▓ END — RAHUL CHOUDHARY | SHADOW CODE NINJA | RC-Rahul-JS ▓▓▓ -->
