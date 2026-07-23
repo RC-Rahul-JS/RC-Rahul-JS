@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,30:061020,60:0a1628,100:020818&height=260&section=header&text=RAHUL%20CHOUDHARY&fontSize=68&fontColor=00B4D8&animation=fadeIn&fontAlignY=42&stroke=00B4D8&strokeWidth=1&desc=Frontend%20Developer%20%E2%80%82%C2%B7%E2%80%82%20Full%20Stack%20Engineer%20%E2%80%82%C2%B7%E2%80%82%20Bhopal%2C%20India&descAlignY=64&descSize=17&descColor=48CAE4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,30:061020,60:0a1628,100:020818&height=260&section=header&text=RAHUL%20CHOUDHARY&fontSize=68&fontColor=00B4D8&animation=fadeIn&fontAlignY=42&stroke=00B4D8&strokeWidth=1&desc=Frontend%20Developer%20%E2%80%82%C2%B7%E2%80%82%20Full%20Stack%20Engineer%20%E2%80%82%C2%B7%E2%80%82%20India&descAlignY=64&descSize=17&descColor=48CAE4" />
 
 <!-- ANIMATED ROLE TYPING -->
 <a href="https://github.com/RC-Rahul-JS">
@@ -14,7 +14,7 @@
 <!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20FOR%20HIRE-Full%20Time%20%7C%20Freelance-52B788?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-Bhopal%2C%20India-00B4D8?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20INDIA-Pan--India%20%7C%20Remote%20Ready-00B4D8?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=RC-Rahul-JS&style=for-the-badge&color=0a3d5c&labelColor=0D1117&label=Profile+Views"/>
 
@@ -290,3 +290,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:061020,100:020818&height=90&section=footer"/>
 
 </div>
+
+
