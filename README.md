@@ -234,11 +234,7 @@ Construction project & team management admin dashboard — project tracking, tea
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake.svg?v=1">
-  <img src="https://raw.githubusercontent.com/RC-Rahul-JS/RC-Rahul-JS/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" style="max-width: 900px;" alt="Contribution Grid Snake"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RC-Rahul-JS&bg_color=020818&color=00B4D8&line=00B4D8&point=48CAE4&area=true&area_color=0a1628&hide_border=true&custom_title=Contribution+Activity&radius=6&v=1" width="100%" style="max-width: 900px;" alt="Contribution Activity Graph"/>
 
 </div>
 
