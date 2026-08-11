@@ -230,7 +230,7 @@ Construction project & team management admin dashboard — project tracking, tea
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RC-Rahul-JS&theme=dark&hide_border=true&background=020818&ring=00B4D8&fire=48CAE4&currStreakLabel=00B4D8&sideLabels=48CAE4&currStreakNum=52B788&sideNums=8B949E&dates=484F58" width="100%" style="max-width: 600px;"/>
+<img src="https://streak-stats.vercel.app/?user=RC-Rahul-JS&theme=dark&hide_border=true&background=020818&ring=00B4D8&fire=48CAE4&currStreakLabel=00B4D8&sideLabels=48CAE4&currStreakNum=52B788&sideNums=8B949E&dates=484F58" width="100%" style="max-width: 600px;"/>
 
 <br/><br/>
 
